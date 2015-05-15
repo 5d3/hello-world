@@ -1,1 +1,1 @@
-//resources.res
+//resources.res /2
